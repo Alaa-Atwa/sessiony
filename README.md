@@ -6,4 +6,7 @@ sessiony [session title]
 ex. sessiony studying
 
 ## updates
-- All sessions will be saved under "your_home_direcotry/sessions" 
+All sessions are saved under "[your_home_direcotry]/sessions".
+- sessions are divided inside directories, every session has a name holds the date and time when it started.
+- All sessions for the same day are under one directory and every month has a directory for itself.
+- previous sessions of the same the day will be displayed when you run the script.
